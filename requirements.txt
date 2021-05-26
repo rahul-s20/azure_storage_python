@@ -1,0 +1,3 @@
+setuptools-rust
+pyyaml
+azure-storage-blob

@@ -1,0 +1,4 @@
+connection_string: "DefaultEndpointsProtocol=https;AccountName=rsdemostorage;AccountKey=87qGZ/MkwG6/7oNRn/p4+NZUl8LKlnL4Z58OUcIX3oAJFkfG7X7A+wBh9Kbix8kzPIUWeyaYYfXdpt64TP6Zhg==;EndpointSuffix=core.windows.net"
+storage_container_name: "uploadedfiles"
+local_file_path: "D:/Projects/azure/azure_storage/files_upload"
+download_file_path: "D:/Projects/azure/azure_storage/downloaded_files"
