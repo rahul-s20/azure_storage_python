@@ -1,0 +1,25 @@
+{
+	"name": "CarsTable",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "outputSql",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [
+			{
+				"name": "name",
+				"type": "varchar"
+			},
+			{
+				"name": "price",
+				"type": "varchar"
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "cars"
+		}
+	}
+}
